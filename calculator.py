@@ -13,7 +13,7 @@ def divide(n1, n2):
     return n1 / n2
 
 def percentage(n1, n2):
-    return n1 % n2
+    return n1 *n2/100
 
 operations = {
     "+": add,
