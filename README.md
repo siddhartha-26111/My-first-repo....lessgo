@@ -2,6 +2,8 @@
 
 # Python CLI Calculator
 
+
+
 A simple command-line calculator built using Python.  
 This project was created as part of my Python learning journey.
 
@@ -10,7 +12,8 @@ This project was created as part of my Python learning journey.
 - Uses functions and dictionary mapping
 - Continuous calculations using previous results
 - Option to restart the calculator
-
+- Python 3.x
+- `art` module (used for calculator logo)
 ## Concepts Used
 - Functions
 - Dictionaries
@@ -20,5 +23,6 @@ This project was created as part of my Python learning journey.
 
 ## How to Run
 ```bash
-calculator.py
+python calculator.py
+
 
