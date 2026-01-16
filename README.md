@@ -20,4 +20,5 @@ This project was created as part of my Python learning journey.
 
 ## How to Run
 ```bash
-python calculator.py
+calculator.py
+
