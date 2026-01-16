@@ -3,7 +3,6 @@
 # Python CLI Calculator
 
 
-
 A simple command-line calculator built using Python.  
 This project was created as part of my Python learning journey.
 
